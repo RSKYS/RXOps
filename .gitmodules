@@ -1,3 +1,3 @@
 [submodule "Roles/Infra-Preset"]
 	path = Roles/Infra-Preset
-	url = https://github.com/RSKYS/Infra-Preset
+	url = https://github.com/RSKYS/Infra-Preset.git
